@@ -1,0 +1,21 @@
+{
+    "LASTNAME": "O'REILLY",
+    "FIRSTNAME": "ROFMAN",
+    "GENDER": "F",
+    "ETHNICGROUP": "W",
+    "POTS": [
+        {
+            "STARTDATE": "2022-04-25",
+            "EXPCOMPLETIONDATE": "2025-04-25",
+            "SCHEMEID": 2,
+            "DETAILS": [
+                {
+                    "NVQREF": "Q1053796"
+                }
+            ]
+        }
+    ],
+    "INFO": {
+        "NROVA": "123"
+    }
+}
