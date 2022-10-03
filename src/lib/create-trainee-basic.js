@@ -1,6 +1,6 @@
 const axios = require('axios');
 const fetchToken = require('./helper-functions');
-const traineeJson = require('../json/CreateTraineeBasic.json');
+const traineeJson = require('../example-json/CreateTraineeBasic.json');
 
 module.exports = async function createTraineeBasic() {
     //fetch oidc token 
