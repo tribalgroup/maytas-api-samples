@@ -4,7 +4,7 @@
     "description": "Sample showing how to call Maytas OData API",
     "main": "main.js",
     "scripts": {
-      "start": "node ./main.js"
+      "createtraineebasic": "node ./create-trainee-basic.js"
     },
     "author": "",
     "license": "ISC",

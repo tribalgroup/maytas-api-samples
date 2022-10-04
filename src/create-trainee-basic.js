@@ -1,8 +1,21 @@
+const dotenv = require('dotenv');
+const path = require('path');
 const axios = require('axios');
-const fetchToken = require('./helper-functions');
-const traineeJson = require('../example-json/CreateTraineeBasic.json');
+const fetchToken = require('./lib/helper-functions');
+const traineeJson = require('./example-json/CreateTraineeBasic.json');
 
-module.exports = async function createTraineeBasic() {
+(async () => {
+    try {
+        dotenv.config({ path: path.resolve(__dirname, './env/', 'dev.env') });
+        await createTraineeBasic();
+    }
+    catch (e) {
+        console.log(`Failed to execute:  ${e.message}\n${e.stack}`);    
+    }
+})();
+
+
+async function createTraineeBasic() {
     //fetch oidc token 
     const token = await fetchToken();
 
