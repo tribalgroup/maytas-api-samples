@@ -11,8 +11,8 @@ module.exports = async function createTraineeBasic() {
         //we want to continue even if we get an error response
         validateStatus: function (status) { return true; },
         headers: {
-            'Content-Type': 'application/json',
-            'Authorization': `Bearer ${token}`
+            'Authorization': `Bearer ${token}`,
+            'Content-Type': 'application/json'
         }
     });
 
@@ -20,7 +20,7 @@ module.exports = async function createTraineeBasic() {
         console.log(`Success : Created trainee.  Returned TraineeId = ${res.data.TRAINEEID}`);
     }
     else {
-        console.log(`Error : Createe returned code ${res.status}`);
+        console.log(`Error : Create returned code ${res.status}`);
         if (res.data)
             console.log(JSON.stringify(res.data, null, 2));
     }
