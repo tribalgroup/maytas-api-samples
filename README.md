@@ -1,5 +1,5 @@
 # Purpose
-The Maytas OData API allows developers to interact with the Maytas data model to perform common actions.   It supports the OData 4.0 standard.  It allows querying, creation and updating of data.
+The Maytas OData API allows developers to interact with the Maytas data model to perform common actions.   The API supports the OData 4.0 standard.  The querying, creation and updating of data are all supported.
 
 This repository provides information on using the API, along with some samples that you can download and execute to demonstrate the functionality.  
 
@@ -14,7 +14,7 @@ This repository provides information on using the API, along with some samples t
 
 ## Running 
 
-1. In a terminal session, from within the ```src``` folder, install the npm modules for the samples.
+1. In a terminal session, from within the ```src``` folder, install the npm modules:
 
 ```powershell
 npm install
@@ -29,7 +29,7 @@ npm install
 |maytasSampleClientId     | Client ID created via the Edge Admin application.   Will start with ```api_```
 |maytasSampleClientSecret | Client Secret created via the Edge Admin application.   
 
-3. To run the sample, in your terminal window, type:
+3. To run a sample, in your terminal window, type:
 ```
-npm run start
+node ./create-trainee-basic.js
 ```
