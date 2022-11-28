@@ -1,0 +1,80 @@
+{
+    "UNIQUELEARNERNUMBER": "1061484679",
+    "LASTNAME": "IlrTrainee",
+    "FIRSTNAME": "Test Sixteen",
+    "DOB": "2005-02-27",
+    "ETHNICGROUP": "W",
+    "GENDER": "F",
+    "ILR_2122_PLANLEARNHOURS":440,
+    "ILR_2223_PLANLEARNHOURS":440,
+    "ILR_2122_PLANEEPHOURS":100,
+    "ILR_2223_PLANEEPHOURS":100,
+    "ILR_2122_MATHSGRADE":"NONE",
+    "ILR_2223_MATHSGRADE":"NONE",
+    "ILR_2122_ENGLISHGRADE":"D",
+    "ILR_2223_ENGLISHGRADE":"D",
+    "POSTCODE": "BR1 7SS",
+    "ADDRESS1": "The Street",
+    "ADDRESS2": "ToyTown",
+    "ILR_2122_LEARNERSUPPORTREASON":"55",
+    "ILR_2223_LEARNERSUPPORTREASON":"55",
+    "ILR_2122_EFADISADVANTAGE":"2",
+    "ILR_2223_EFADISADVANTAGE":"2",
+    "ILR_2122_MATHSCONDITION":"3",
+    "ILR_2223_MATHSCONDITION":"3",
+    "ILR_2122_FREEMEALS":"2",
+    "ILR_2223_FREEMEALS":"2",
+    "POTS": [
+        {
+            "SCHEMEID": 12,
+            "CONTRACTORID": "1227-0001-129",
+            "SERIALNUMBER": "16Learner",
+            "ILR_2122_PMUKPRN": "87654321",
+            "ILR_2223_PMUKPRN": "87654321",
+            "ILR_2122_CAMPID": "1234ABCD",
+            "ILR_2223_CAMPID": "1234ABCD",
+            "ILR_2122_ACCOMODATION":"5",
+            "ILR_2223_ACCOMODATION":"5",
+            "ALTERNATEPOSTCODE":"BR1 7SS",
+            "STARTDATE": "2020-09-14",
+            "EXPCOMPLETIONDATE": "2022-07-02",
+            "FUNDINGEXPIRYDATE04": "2022-07-02",
+            "ILR13_FUNDMODEL": "25",
+            "DELIVERYPOSTCODE": "BR1 3RL",
+            "ILR_2122_SOURCEOFFUNDING": "107",
+            "ILR_2223_SOURCEOFFUNDING": "107",
+            "DETAILS": [
+                {
+                    "DISABLED":"N",
+                    "NVQREF": "60149735"
+                }
+            ],
+            "POT2": {
+                "ILR_CORE_AIM":"5",
+                "ILR_COMPSTATUS_2122": "1",
+                "ILR11_COMPLETIONSTATUS": "1"
+            },
+            "ILR_AIMS": [
+                {
+                    "ILR13_FUNDMODEL": "25",
+                    "NVQREF": "60146242",
+                    "STARTDATE": "2021-02-14",
+                    "EXPCOMPLETIONDATE": "2022-07-15",
+                    "DELIVERYPOSTCODE":"BR2 7UP",
+                    "ILR_COMPSTATUS_2122": "3",
+                    "ILR11_COMPLETIONSTATUS": "3",
+                    "TERMINATIONDATE": "2021-04-01",
+                    "ILR13_WITHDRAWALREASON":"98",
+                    "ILR_OUTCOME_2122":"N",
+                    "GAINEDNVQ":"N",
+                    "ILR_2122_SOURCEOFFUNDING": "107",
+                    "ILR_2223_SOURCEOFFUNDING": "107"
+                }
+            ]
+        }
+    ],
+    "INFO": {
+        "NOTES": null
+    }
+}   
+

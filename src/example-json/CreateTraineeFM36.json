@@ -1,0 +1,170 @@
+{
+    "LASTNAME": "IlrTrainee",
+    "FIRSTNAME": "Test FMThreeSix",
+    "GENDER": "M",
+    "ETHNICGROUP": "W",
+    "UNIQUELEARNERNUMBER": "3847158464",
+    "DOB": "1999-08-08",
+    "NINUMBER": "PE725017B",
+    "POSTCODE": "S60 3BU",
+    "ADDRESS1": "1 High Street",
+    "POTS": [
+        {
+            "SCHEMEID": 3,
+            "CONTRACTORID": "1227-0001-129",
+            "SERIALNUMBER": "FMThreeSix",
+            "ALTERNATEPOSTCODE":"S60 3BU",
+            "STARTDATE": "2020-05-10",
+            "EXPCOMPLETIONDATE": "2021-05-11",
+            "FUNDINGEXPIRYDATE04": "2021-05-11",
+            "ILR13_PROG_FUNDMODEL": "36",
+            "ILR13_FUNDMODEL": "36",
+            "ILR_1415_PROGRAMMETYPE": "3",
+            "DELIVERYPOSTCODE": "S60 2UD",
+            "TERMINATIONDATE": "2022-02-13",
+            "GAINEDNVQ": "N",
+            "ILR_2122_PROG_SOURCEOFFUNDING": "105",
+            "ILR_2122_SOURCEOFFUNDING": "105",
+            "ILR_1516_PROG_HOUSEHOLD": "99",
+            "DETAILS": [
+                {
+                    "NVQREF": "60136078",
+                    "SECTORCODE": "490"
+                }
+            ],
+            "POT2": {
+                "LSC_PROVIDERDEFINED1": "DBeaven",
+                "LSC_PROVIDERDEFINED2": "REP-INBU",
+                "ILR12_PROG_APPRENTICE_PATHWAY": "1",
+                "ILR12_APPRENTICESHIP_PATHWAY": "1",
+                "ILR_PROG_COMPSTATUS_2122": "6",
+                "ILR_COMPSTATUS_2122": "2",
+                "ILR_PROG_OUTCOME_2122": "N"
+            },
+            "DELFAM_ACT": [
+                {
+                    "AIMNO": 0,
+                    "ACTCODE": "1",
+                    "ACTFROMDATE": "2020-05-10",
+                    "ACTTODATE_1617": "2021-02-13"
+                }
+            ],
+            "TRAILBLAZER": [
+                {
+                    "FINTYPE": "TNP",
+                    "FINCODE": "TNP-1",
+                    "FINDATE": "2020-05-10",
+                    "FINAMOUNT": 2000
+                },
+                {
+                    "FINTYPE": "PMR",
+                    "FINCODE": "PMR-1",
+                    "FINDATE": "2020-05-10",
+                    "FINAMOUNT": 0
+                }
+            ],
+             "ILR_AIMS": [
+                {
+                    "ILR13_FUNDMODEL": "36",
+                    "ILR_1415_PROGRAMMETYPE": "3",
+                    "NVQREF": "50096308",
+                    "STARTDATE": "2020-05-10",
+                    "EXPCOMPLETIONDATE": "2020-11-11",
+                    "TERMINATIONDATE": "2020-08-26",
+                    "COMPLETIONSTATUS": "2",
+                    "GAINEDNVQ": "W",
+                    "ILR_2223_SOURCEOFFUNDING": "105"
+                }
+            ]
+        },
+        {
+            "SCHEMEID": 3,
+            "CONTRACTORID": "1227-0001-129",
+            "SERIALNUMBER": "FMThreeSix",
+            "ALTERNATEPOSTCODE":"S60 3BU",
+            "STARTDATE": "2021-05-16",
+            "ILR_PROG_ORIGLEARNSTARTDATE": "2020-05-10",
+            "ILR_ORIGLEARNSTARTDATE": "2020-05-10",
+            "EXPCOMPLETIONDATE": "2022-08-16",
+            "FUNDINGEXPIRYDATE04": "2022-08-16",
+            "ILR13_PROG_FUNDMODEL": "36",
+            "ILR13_FUNDMODEL": "36",
+            "ILR_1920_PHOURS": 343,
+            "ILR_2021_ACTHOURS": 340,
+            "ILR_1415_PROGRAMMETYPE": "3",
+            "DELIVERYPOSTCODE": "S60 2UD",
+            "ILR_PRIORLEARNFUNDADJ": "24",
+            "TERMINATIONDATE": "2022-08-20",
+            "GAINEDNVQ": "W",
+            "ILR_2122_PROG_SOURCEOFFUNDING": "105",
+            "ILR_2122_SOURCEOFFUNDING": "105",
+            "ILR_2223_PROG_SOURCEOFFUNDING": "105",
+            "ILR_2223_SOURCEOFFUNDING": "105",
+            "ILR_1516_PROG_HOUSEHOLD": "99",
+            "DETAILS": [
+                {
+                    "NVQREF": "60136078",
+                    "SECTORCODE": "490",
+                    "DISABLED": "N"
+                }
+            ],
+            "POT2": {
+                "LSC_PROVIDERDEFINED1": "DBeaven",
+                "LSC_PROVIDERDEFINED2": "REP-INBU",
+                "ILR12_PROG_APPRENTICE_PATHWAY": "1",
+                "ILR12_APPRENTICESHIP_PATHWAY": "1",
+                "ILR11_PROG_COMPLETIONSTATUS": "2",
+                "ILR11_COMPLETIONSTATUS": "2",
+                "LSC_PROG_OUTCOME": "W",
+                "ILR_RESTART": "1",
+                "ILR_PROG_RESTART": "1"
+            },
+            "TRAILBLAZER": [
+                {
+                    "FINTYPE": "TNP",
+                    "FINCODE": "TNP-1",
+                    "FINDATE": "2021-05-16",
+                    "FINAMOUNT": 300
+                }
+            ],
+            "DELFAM_ACT": [
+                {
+                    "ACTCODE": "1",
+                    "ACTFROMDATE": "2021-05-16",
+                    "ACTTODATE_1617": "2022-08-09"
+                }
+            ]
+        }
+    ],
+    "INFO": {
+        "NROVA": "",
+        "NOTES": null
+
+    },
+      "DESTINATIONS": [
+        {
+            "OUTCOMETYPE": "OTH",
+            "OUTCOMECODE": "OTH-3",
+            "STARTDATE": "2019-10-02",
+            "ENDDATE": null,
+            "COLLDATE": "2019-10-10"
+        }
+    ],
+    "EMPSTAT": [
+        {
+
+            "DATESTATUSAPPLIESTO": "2021-05-09",
+            "EMPLOYMENTSTATUS_2012": "10",
+            "EDRS_ID": "900649259",
+            "ILR_1819_ESM_EMPINTENSITY": "3",
+            "ESM_LENGTH_OF_EMPLOYMENT": "1"
+        }
+    ],
+    "PRIOR_ATTAIN": [
+        {
+
+            "DATEAPPLIES": "2021-05-10",
+            "PRIORLEVEL": 7
+        }
+    ]
+}

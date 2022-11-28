@@ -1,0 +1,169 @@
+{
+    "LASTNAME": "IlrTrainee",
+    "FIRSTNAME": "Test TShip",
+    "GENDER": "F",
+    "ETHNICGROUP": "W",
+    "UNIQUELEARNERNUMBER": "1061484679",
+    "DOB": "2004-02-27",
+    "NINUMBER": "PE725017B",
+    "ILR_2223_PLANLEARNHOURS":140,
+    "ILR_2223_PLANEEPHOURS":5,
+    "ILR_2223_MATHSGRADE":"D",
+    "ILR_2223_ENGLISHGRADE":"D",
+    "POSTCODE": "BR1 7SS",
+    "ADDRESS1": "The Street",
+    "ADDRESS2": "ToyTown",
+    "ILR_2223_LEARNERSUPPORTREASON":"55",
+    "ILR_2223_EFADISADVANTAGE":"2",
+    "POTS": [
+        {
+            "SCHEMEID": 12,
+            "CONTRACTORID": "1227-0001-129",
+            "SERIALNUMBER": "TshipLearn17",
+            "ILR_2122_ACCOMODATION":"5",
+            "ALTERNATEPOSTCODE":"BR1 7SS",
+            "STARTDATE": "2021-01-14",
+            "EXPCOMPLETIONDATE": "2021-05-14",
+            "FUNDINGEXPIRYDATE04": "2021-05-14",
+            "ILR13_PROG_FUNDMODEL": "25",
+            "ILR13_FUNDMODEL": "25",
+            "ILR_1415_PROGRAMMETYPE": "24",
+            "DELIVERYPOSTCODE": "BR2 7UP",
+            "TERMINATIONDATE": "2021-05-14",
+            "ILR_OUTCOME_2122":"W",
+            "FRAMEWORKCOMPLETEDDATE":"2021-05-14",
+            "GAINEDNVQ": "N",
+            "ILR_2122_PROG_SOURCEOFFUNDING": "107",
+            "ILR_2122_SOURCEOFFUNDING": "107",
+            "DETAILS": [
+                {
+                    "DISABLED":"N",
+                    "NVQREF": "ZWRKX001",
+                    "SECTORCODE": "490"
+                }
+            ],
+            "POT2": {
+                "ILR_CORE_AIM":"5",
+                "ILR_PROG_COMPSTATUS_2122": "2",
+                "ILR_COMPSTATUS_2122": "2",
+                "ILR_PROG_OUTCOME_2122": "W"
+            },
+            "WORKPLACEMENT": [
+                {
+                    "STARTDATE": "2020-02-14",
+                    "ENDDATE": "2020-04-14",
+                    "MODE": "2",
+                    "EMPID": "123456789",
+                    "WPHOURS": 1
+                }
+            ],
+            "ILR_AIMS": [
+                {
+                    "ILR13_FUNDMODEL": "25",
+                    "ILR_1415_PROGRAMMETYPE": "24",
+                    "NVQREF": "Z0001823",
+                    "STARTDATE": "2021-01-14",
+                    "EXPCOMPLETIONDATE": "2021-05-14",
+                    "DELIVERYPOSTCODE":"CV1 1SS",
+                    "ILR_COMPSTATUS_2122": "2",
+                    "TERMINATIONDATE": "2021-05-14",
+                    "ILR_OUTCOME_2122":"W",
+                    "ILR_2122_SOURCEOFFUNDING": "107"
+                },
+                {
+                    "ILR13_FUNDMODEL": "25",
+                    "ILR_1415_PROGRAMMETYPE": "24",
+                    "NVQREF": "60342857",
+                    "STARTDATE": "2021-01-14",
+                    "EXPCOMPLETIONDATE": "2021-05-14",
+                    "DELIVERYPOSTCODE":"CV1 1SS",
+                    "ILR_COMPSTATUS_2122": "1",
+                    "ILR_2122_SOURCEOFFUNDING": "107"
+                }
+            ]
+        },
+        {
+            "SCHEMEID": 3,
+            "CONTRACTORID": "1227-0001-129",
+            "SERIALNUMBER": "TshipLearn17",
+            "ALTERNATEPOSTCODE":"BR1 7SS",
+            "STARTDATE": "2021-06-09",
+            "EXPCOMPLETIONDATE": "2022-12-31",
+            "FUNDINGEXPIRYDATE04": "2022-12-31",
+            "ILR13_PROG_FUNDMODEL": "36",
+            "ILR13_FUNDMODEL": "36",
+            "ILR_1920_PHOURS": 300,
+            "ILR_1415_PROGRAMMETYPE": "2",
+            "DELIVERYPOSTCODE": "CV23 2AA",
+            "ILR_PRIORLEARNFUNDADJ": "24",
+            "ILR_2223_PROG_SOURCEOFFUNDING": "105",
+            "ILR_2223_SOURCEOFFUNDING": "105",
+            "ILR_1516_PROG_HOUSEHOLD": "01",
+            "ILR_1516_HOUSEHOLD": "01",
+            "DETAILS": [
+                {
+                    "NVQREF": "60079125",
+                    "SECTORCODE": "549",
+                    "DISABLED": "N"
+                }
+            ],
+            "POT2": {
+                "LSC_AIM_PROVIDERDEFINED1": "KP11X07",
+                "ILR12_PROG_APPRENTICE_PATHWAY": "1",
+                "ILR12_APPRENTICESHIP_PATHWAY": "1",
+                "ILR11_PROG_COMPLETIONSTATUS": "1",
+                "ILR13_PROG_FULLCOFUNDINGIND":"1",
+                "ILR11_COMPLETIONSTATUS": "1",
+                "ILR13_FULLCOFUNDINGINDICATOR": "1"
+            },
+            "TRAILBLAZER": [
+                {
+                    "FINTYPE": "TNP",
+                    "FINCODE": "TNP-1",
+                    "FINDATE": "2021-06-09",
+                    "FINAMOUNT": 1500
+                },
+                {
+                    "FINTYPE": "PMR",
+                    "FINCODE": "PMR-1",
+                    "FINDATE": "2022-10-31",
+                    "FINAMOUNT": 50
+                }
+            ],
+            "DELFAM_ACT": [
+                {
+                    "AIMNO": null,
+                    "ACTCODE": "1",
+                    "ACTFROMDATE": "2021-06-09"
+                }
+            ]
+        }
+    ],
+    "INFO": {
+        "NOTES": null
+    },
+    "EMPSTAT": [
+        {
+
+            "DATESTATUSAPPLIESTO": "2019-01-13",
+            "EMPLOYMENTSTATUS_2012": "11",
+            "ESM_LENGTH_OF_UNEMPLOYMENT":"1"
+        },
+        {
+
+            "DATESTATUSAPPLIESTO": "2019-03-08",
+            "EMPLOYMENTSTATUS_2012": "10",
+            "EDRS_ID": "123456789",
+            "ILR_1819_ESM_EMPINTENSITY": "5",
+            "ESM_LENGTH_OF_EMPLOYMENT": "1"
+        }
+    ],
+    "PRIOR_ATTAIN": [
+        {
+
+            "DATEAPPLIES": "2021-06-09",
+            "PRIORLEVEL": 2
+        }
+    ]
+
+}
